@@ -1,4 +1,6 @@
-﻿module FablePluginTest.Main
+﻿module FablePluginTest
+
+open FablePluginTest.Plugin
 
 type TestType =
     [<TestPlugin>]

@@ -1,4 +1,4 @@
-﻿namespace FablePluginTest
+﻿namespace FablePluginTest.Plugin
 
 open Fable
 
