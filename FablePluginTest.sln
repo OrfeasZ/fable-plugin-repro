@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FablePluginTest", "FablePluginTest\FablePluginTest.fsproj", "{B5AE1C04-8D3E-4F27-9A4F-FF63017B9822}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FablePluginTest.Plugin", "FablePluginTest.Plugin\FablePluginTest.Plugin.fsproj", "{B05B39F1-4623-43F3-A2D0-91E767D1E9A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5AE1C04-8D3E-4F27-9A4F-FF63017B9822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AE1C04-8D3E-4F27-9A4F-FF63017B9822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AE1C04-8D3E-4F27-9A4F-FF63017B9822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AE1C04-8D3E-4F27-9A4F-FF63017B9822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B05B39F1-4623-43F3-A2D0-91E767D1E9A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05B39F1-4623-43F3-A2D0-91E767D1E9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05B39F1-4623-43F3-A2D0-91E767D1E9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05B39F1-4623-43F3-A2D0-91E767D1E9A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
